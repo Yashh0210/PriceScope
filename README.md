@@ -1,4 +1,4 @@
-# Flipkart Product Scraper API
+# Flipkart Product Scraper API( Purely Educational Purpose)
 
 This project is a Node.js + TypeScript Express API that scrapes product details from a Flipkart product page URL.
 It exposes a simple endpoint that returns product name, price, rating, and availability as JSON.
